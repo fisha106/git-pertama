@@ -1,4 +1,4 @@
 Ini baris satu.
-hari ini hari sabtu.
-dan tentunya hari libur
+hari ini hari libur.
+
 Tapi ternyata masuk juga
